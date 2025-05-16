@@ -1,0 +1,262 @@
+# WEBSITE IMPLEMENTATION DOCUMENT
+
+## PROJECT OVERVIEW
+
+This document outlines specifications for the creation of a personal academic and professional website that serves three key functions:
+
+1. **Informational** - Introducing the individual, their values, and research direction
+2. **Promotional** - Showcasing capabilities for potential collaborators or employers
+3. **Scientific** - Supporting research on scientific discovery processes with interactive elements
+
+The website follows a unique temporal structure (Future-Present-Past) that unfolds as users scroll, with progressive disclosure of information through expandable sections.
+
+---
+
+## SITE STRUCTURE
+
+The website is organized into three distinct but flowing sections that correspond to different temporal dimensions:
+
+### 1. THE FUTURE (Landing View)
+The entry point focusing on vision, mission, and aspirations.
+
+### 2. THE PRESENT (Timeline/Ongoing)
+An interactive section showing current projects and recent activities.
+
+### 3. THE PAST (Interactive CV)
+An expandable curriculum vitae with personal and professional history.
+
+A visual timeline element connects these sections for seamless navigation.
+
+---
+
+## CONTENT SPECIFICATIONS
+
+### THE FUTURE Section Content
+
+**Main Headline:** "Revolutionizing Scientific Discovery Through Understanding How We Discover"
+
+**Vision Statement:** "The future of science lies not just in what we discover, but how we discover. I'm dedicated to understanding the mechanisms of scientific breakthroughs to create more effective methods of innovation and discovery."
+
+**Key Future Goals:**
+- Develop a comprehensive model of scientific discovery processes
+- Create tools that accelerate breakthrough thinking across disciplines
+- Build a global community of discovery-focused researchers
+- Apply these insights to solve humanity's most pressing challenges
+
+**Call to Action:** "Wanna make this happen? Join the future of scientific discovery."
+[Email Collection Form]
+
+**Future Projects Teasers:**
+1. "Project Horizon: Mapping the patterns of breakthrough thinking" (Coming 2023)
+2. "Discovery Lab: A collaborative space for testing new scientific methods" (In development)
+3. "Cognitive Maps Initiative: Visualizing the pathways to scientific insight" (Seeking collaborators)
+
+### THE PRESENT Section Content
+
+**Current Research Focus:** "Currently exploring the intersection of cognitive science and scientific methodology to uncover patterns in successful scientific breakthroughs."
+
+**Ongoing Projects:**
+1. **Causal Discovery Application**
+   - Status: Beta testing
+   - Description: "An interactive tool for mapping causal relationships in complex systems"
+   - [Link to demo]
+   - [Link to documentation]
+
+2. **Discovery Patterns Database**
+   - Status: Data collection phase
+   - Description: "Cataloging and analyzing historical scientific breakthroughs to identify common patterns"
+   - [Link to current findings]
+   - [Link to contribute]
+
+3. **Interdisciplinary Discovery Workshop Series**
+   - Status: Registration open
+   - Description: "Monthly workshops bringing together scientists from diverse fields to explore discovery methodologies"
+   - [Link to schedule/registration]
+
+**Recent Updates:**
+1. "Published working paper on discovery heuristics" - [Date] - [Link to Google Doc]
+2. "Presented findings at International Science of Discovery Conference" - [Date] - [Link to slides]
+3. "New collaboration with Cognitive Science Institute" - [Date] - [Details]
+4. "Released version 0.2 of the Causal Maps tool" - [Date] - [Link]
+
+### THE PAST Section Content
+
+**Education:**
+- Ph.D., [Field], [University], [Year]
+  *Dissertation: "[Title]"*
+  [Expandable section with details about research focus and achievements]
+- Master's Degree, [Field], [University], [Year]
+  *Thesis: "[Title]"*
+  [Expandable section with details about coursework and special projects]
+- Bachelor's Degree, [Field], [University], [Year]
+  *Focus areas: [Topic 1], [Topic 2]*
+  [Expandable section with details about key learning experiences]
+- [Additional diploma/certification], [Institution], [Year]
+  [Expandable section with details about specialization]
+
+**Professional Experience:**
+- [Job Title], [Organization], [Years]
+  *Key achievements: [Brief description]*
+  [Expandable section with detailed responsibilities and accomplishments]
+- [Job Title], [Organization], [Years]
+  *Key achievements: [Brief description]*
+  [Expandable section with detailed responsibilities and accomplishments]
+- [Job Title], [Organization], [Years]
+  *Key achievements: [Brief description]*
+  [Expandable section with detailed responsibilities and accomplishments]
+- [Earlier positions summary]
+  [Expandable section with brief details on earlier career]
+
+**Theater Experience:**
+- [Role/Position], [Production/Theater Company], [Year]
+  [Expandable section with production details and personal growth]
+- [Role/Position], [Production/Theater Company], [Year]
+  [Expandable section with production details and personal growth]
+- [Role/Position], [Production/Theater Company], [Year]
+  [Expandable section with production details and personal growth]
+- *"10 years of theater training informing my approach to creativity and collaboration"*
+  [Expandable section with reflection on how theater influences scientific work]
+
+**Publications:**
+- [Authors]. (Year). [Title]. *[Journal]*, [Volume](Issue), [Pages]. [DOI]
+  [Expandable section with abstract and key findings]
+- [Authors]. (Year). [Title]. *[Journal]*, [Volume](Issue), [Pages]. [DOI]
+  [Expandable section with abstract and key findings]
+- [Authors]. (Year). [Title]. *[Journal]*, [Volume](Issue), [Pages]. [DOI]
+  [Expandable section with abstract and key findings]
+- [Link to complete publications list]
+
+---
+
+## VISUAL DESIGN SPECIFICATIONS
+
+### Overall Design Philosophy
+A clean, simple, and elegant design that emphasizes content while using visual elements to reinforce the past-present-future structure. The website should unfold as users scroll, with smooth transitions between temporal sections.
+
+### Color Palette
+- **Primary Colors**
+  - Deep Blue (#1A365D) - Representing depth of thought and stability
+  - Teal (#2A9D8F) - Representing innovation and growth
+  - Warm Gray (#E8E8E4) - For background and neutral elements
+
+- **Section-Specific Accent Colors**
+  - Future Section: Bright Teal (#45C7B3) - forward-looking, optimistic
+  - Present Section: Vibrant Blue (#3D87CB) - active, engaging
+  - Past Section: Deep Navy (#0A2342) - established, foundational
+
+### Typography
+- **Headings:** Montserrat (sans-serif) - Clean, modern, authoritative
+- **Body Text:** Source Sans Pro (sans-serif) - Highly readable, professional
+- **Accent Text:** Georgia (serif) - Adds a classical touch for quotes or emphasis
+
+### Layout Structure
+
+#### THE FUTURE Section
+- Full-width, open layout with significant white space
+- Bold typography for the vision statement
+- Gradient background shifting from dark to light (suggesting dawn/emergence)
+- Email collection form appears prominently but not intrusively
+- Subtle downward scroll indicators
+
+#### THE PRESENT Section
+- Card-based timeline with horizontal scrolling option for ongoing projects
+- Visual timeline element becomes more pronounced
+- More dynamic layout with interactive elements
+- Content cards should have consistent sizing but allow for expansion
+- Active/hover states for interactive elements
+
+#### THE PAST Section
+- Initially displays condensed CV information in a structured grid
+- "See more" toggles reveal additional content in-place
+- More formal, structured layout than the previous sections
+- Clear visual hierarchy for different CV components
+- Timeline visual element continues through this section
+
+### Navigation Elements
+- Persistent subtle timeline indicator along the side of the page showing all three sections
+- Visual marker shows current position in the overall narrative
+- Simple iconography to indicate content types and expandable sections
+- "Return to top" button appears after scrolling past the fold
+
+### Responsive Design Notes
+- All sections should adapt gracefully to mobile, tablet, and desktop viewports
+- Timeline may shift from horizontal to vertical orientation on smaller screens
+- Card layouts should reflow appropriately for different screen widths
+- Touch-friendly tap targets for mobile users
+
+---
+
+## FUNCTIONAL SPECIFICATIONS
+
+### Scrolling and Section Transitions
+- Smooth scrolling between the three main temporal sections
+- Visual transitions that reinforce the time-based narrative
+- Section backgrounds should subtly transform during transitions
+- Current position indicator updates as user scrolls
+
+### Email Collection Function (Future Section)
+- Simple form with single input field for email address
+- Client-side validation for email format
+- Success message confirms submission
+- Basic privacy statement visible
+- Data should be collected in a secure database for future contact
+
+### Interactive Timeline (Present Section)
+- Horizontal scrolling timeline for viewing all current projects
+- Simple filtering system by project category
+- Each project card should have:
+  - Expand/collapse functionality
+  - Links to external resources (Google Docs, etc.)
+  - Sharing options
+  - Visual status indicators
+
+### External Document Integration
+- Links to Google Docs should open in new tabs
+- Preview thumbnails for linked documents where possible
+- Simple document type icons indicate content type (PDF, Doc, Slides)
+- Last updated date displayed for all linked documents
+
+### "See More" Functionality (Past Section)
+- Initial view shows condensed information for CV elements
+- "See more" buttons expand content in-place with smooth animation
+- Expanded sections include "collapse" option
+- Multiple sections can be expanded simultaneously
+
+### Causal Maps Application Integration
+- Phase 1: Link to external application with screenshot preview
+- Phase 2 (future): Embedded interactive demo with limited functionality
+- Clear explanatory text about the tool's purpose and usage
+
+### Interactive Elements
+- Subtle hover effects on all interactive elements
+- Consistent design language for clickable items
+- Clear visual feedback for all user interactions
+- Accessibility considerations for all interactive elements
+
+---
+
+## IMPLEMENTATION NOTES FOR IT TEAM
+
+### General Approach
+- Implement this as a single-page application with smooth scrolling
+- Use placeholder content initially, with easy update mechanisms
+- Prioritize mobile responsiveness from the start
+- Build with content management in mind for future updates
+
+### Priority Features
+1. Overall structure and scrolling mechanics
+2. Email collection functionality
+3. Basic "see more" expand/collapse functionality
+4. Timeline navigation system
+
+### Suggested Development Phases
+1. Static layout with proper responsive structure
+2. Implementation of core interactive elements
+3. Integration of external document links
+4. Addition of animations and transitions
+5. Implementation of email collection and data storage
+
+### Content Management Needs
+- Simple update mechanism for the "Present" section timeline
+- Ability to add/edit CV information easily
+- System for updating project status and links

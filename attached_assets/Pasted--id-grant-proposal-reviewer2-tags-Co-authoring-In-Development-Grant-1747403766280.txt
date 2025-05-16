@@ -1,0 +1,37 @@
+ {
+      "id": "grant_proposal_reviewer2",
+      "tags": ["Co-authoring", "In Development", "Grant Proposal"],
+      "title": "REVIEWER-2: Enhancing R&I Quality via Digital Study of Science",
+      "short_description": "A major EU grant proposal (European Excellence Initiative) with Marcin Miłkowski to digitally transform research assessment and foster excellence at IFIS PAN.",
+      "long_description": "This project aims to significantly boost research and innovation capacities at the Institute of Philosophy and Sociology, Polish Academy of Sciences (IFIS PAN) by leveraging digital metascience. With Prof. Marcin Miłkowski, we are developing a proposal for the EU's European Excellence Initiative (seeking up to 5M EUR) to foster knowledge sharing, skill development, and resource enhancement. Central to this is the systematic, data-driven study and transformation of critical R&I processes like peer review, using language technologies and philosophical insights to analyze scientific practices on a large scale. The goal is to disseminate excellence and bolster scientific resilience by innovating research assessment and collaboration with leading international partners.",
+      "keywords": ["Grant Proposal", "EU Funding", "European Excellence Initiative", "Digital Metascience", "Research Assessment", "Peer Review", "R&I Transformation", "IFIS PAN"],
+      "cta": [
+         {
+          "text": "EEI Call Info",
+          "link": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-widening-participation-and-spreading-excellence/european-excellence-initiative_en",
+          "icon": "FaExternalLinkAlt"
+        }
+      ]
+    },
+    {
+      "id": "paper_ejps_pursuit_worthiness",
+      "tags": ["Leading", "Drafting", "Article"],
+      "title": "Pursuit Worthiness: Normal vs. Revolutionary Science",
+      "short_description": "A philosophical paper arguing that practice-focused epistemologies may inadvertently favor normal science over revolutionary science.",
+      "long_description": "This paper responds to the European Journal for Philosophy of Science's call on the 'Pursuit Worthiness of Experiments.' It argues that philosophical positions emphasizing clear, explicit practices and norms inherently promote 'normal science' paradigms. This is because in 'revolutionary science,' the very norms and practices of discovery are often emergent and not yet codified, potentially leading to such work being undervalued by practice-centric evaluation frameworks. The aim is to explore how epistemologies can better account for and foster transformative, boundary-pushing research.",
+      "keywords": ["Philosophy of Science", "Pursuit Worthiness", "Normal Science", "Revolutionary Science", "Scientific Practice", "Epistemology", "Discovery Norms"],
+      "cta": [
+        {
+          "text": "View Call for Papers",
+          "link": "link_to_ejps_call_for_papers.url",
+          "icon": "FaBullhorn"
+        },
+        {
+          "text": "Read Draft",
+          "link": "#",
+          "icon": "FaFileAlt",
+          "note": "Expected: Very Soon"
+        }
+      ]
+    }
+  ]

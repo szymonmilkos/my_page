@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Source+Sans+Pro:wght@300;400;600&family=Georgia:ital,wght@0,400;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 20 14.3% 4.1%;
+  --muted: 60 4.8% 95.9%;
+  --muted-foreground: 25 5.3% 44.7%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 20 14.3% 4.1%;
+  --card: 0 0% 100%;
+  --card-foreground: 20 14.3% 4.1%;
+  --border: 20 5.9% 90%;
+  --input: 20 5.9% 90%;
+  --primary: 210 70% 23%;  /* Deep Blue #1A365D */
+  --primary-foreground: 211 100% 99%;
+  --secondary: 173 55% 40%;  /* Teal #2A9D8F */
+  --secondary-foreground: 24 9.8% 10%; 
+  --accent: 60 4.8% 95.9%;
+  --accent-foreground: 24 9.8% 10%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 60 9.1% 97.8%;
+  --ring: 20 14.3% 4.1%;
+  --radius: 0.5rem;
+
+  /* Section-specific accent colors */
+  --future-accent: 170 60% 52%;  /* Bright Teal #45C7B3 */
+  --present-accent: 208 60% 52%;  /* Vibrant Blue #3D87CB */
+  --past-accent: 215 74% 15%;  /* Deep Navy #0A2342 */
+  --warm-gray: 60 10% 90%; /* Warm Gray #E8E8E4 */
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans antialiased bg-[#E8E8E4] text-foreground overflow-x-hidden;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .font-georgia {
+    font-family: 'Georgia', serif;
+  }
+
+  .future-gradient {
+    background: linear-gradient(135deg, rgba(26, 54, 93, 0.95) 0%, rgba(69, 199, 179, 0.9) 100%);
+  }
+  
+  .present-gradient {
+    background: linear-gradient(135deg, rgba(26, 54, 93, 0.95) 0%, rgba(61, 135, 203, 0.9) 100%);
+  }
+  
+  .past-gradient {
+    background: linear-gradient(135deg, rgba(26, 54, 93, 0.95) 0%, rgba(10, 35, 66, 0.9) 100%);
+  }
+
+  .timeline-indicator {
+    width: 3px;
+    background: linear-gradient(to bottom, #45C7B3, #3D87CB, #0A2342);
+  }
+
+  .section-marker.active {
+    opacity: 1;
+    width: 12px;
+    height: 12px;
+  }
+
+  .horizontal-timeline {
+    overflow-x: auto;
+    scrollbar-width: thin;
+  }
+  
+  .horizontal-timeline::-webkit-scrollbar {
+    height: 4px;
+  }
+  
+  .horizontal-timeline::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+  }
+  
+  .horizontal-timeline::-webkit-scrollbar-thumb {
+    background: #3D87CB;
+    border-radius: 4px;
+  }
+}

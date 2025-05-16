@@ -1,0 +1,151 @@
+```json
+{
+  "projects": [
+    // ... (previous 4 projects from last response remain here) ...
+    {
+      "id": "phd_project_overall",
+      "tags": ["Leading", "Finalizing", "Dissertation"],
+      "title": "PhD Project",
+      "short_description": "Advancing the methodology of scientific discovery through an integrated study of Causal Discovery Methods, Meta-Creative Problem-Solving, and Cognitive Metascience.",
+      "long_description": "This dissertation aims to understand and advance the methodology of scientific discovery. It uses Causal Discovery Methods (CDMs) as a lens to study and improve scientific practice, introduces Meta-Creative Problem-Solving (MCPS) as a novel theory of how scientists overcome ignorance at the frontiers of discovery, and pioneers a cognitive metascience investigation to improve theoretical practices in science. The three main theoretical contributions of this work are being developed as standalone papers (see related projects below).",
+      "keywords": ["Scientific Discovery", "Methodology", "Causal Discovery", "Meta-Creative Problem-Solving", "Cognitive Metascience", "PhD"],
+      "cta": [
+        {
+          "text": "View Prospectus",
+          "link": "link_to_advancing_methodology_document.pdf",
+          "icon": "FaFilePdf"
+        }
+      ]
+    },
+    {
+      "id": "article_cda_adoption",
+      "tags": ["Leading", "Draft Almost Ready", "Article"],
+      "title": "Widespread Adoption of Causal Discovery Algorithms Through Theoretical Practice Checklist",
+      "short_description": "Proposing a 'Theoretical Practice Checklist' to improve the trustworthiness and integration of Causal Discovery Algorithm (CDA) results in scientific practice.",
+      "long_description": "This study aims for an impactful understanding of scientific discovery practice using Causal Discovery Algorithms (CDAs). Despite their potential, widespread CDA adoption is hindered by conceptual confusion and problems merging domain-specific theories with the causal framework, leading to uncertain trustworthiness of results. This paper develops a fundamental causal assumption to provide external validity criteria and a central methodological definition to synthesize debates on CDA outcome validity. Building on this, a 'Theoretical Practice Checklist' is proposed. This checklist allows for estimating confidence in CDA results, enriching peer-review, and fostering the iterative integration of theory-driven scientists with data-driven methods. The intended audience includes philosophers of science, scientists uncertain about using CDAs, and the CDA development community.",
+      "keywords": ["Causal Discovery Algorithms", "CDA", "Theoretical Practice", "Scientific Methodology", "Validity", "Confidence Assessment", "Interdisciplinary Work"],
+      "cta": [
+        {
+          "text": "View Slides",
+          "link": "link_to_cda_adoption_slides_cut.pdf",
+          "icon": "FaFilePowerpoint"
+        },
+        {
+          "text": "Comment Draft",
+          "link": "#",
+          "icon": "FaComments",
+          "note": "Expected: July 2024"
+        }
+      ]
+    },
+    {
+      "id": "article_mcps_theory",
+      "tags": ["Leading", "In Preparation", "Article"],
+      "title": "Overcoming Ignorance: Meta-Creative Problem-Solving as Theory and Methodology of Scientific Discovery",
+      "short_description": "Introducing Meta-Creative Problem-Solving (MCPS), a new concept to study and improve inquiry practices as they become intelligent at the frontiers of knowledge.",
+      "long_description": "At the frontier of knowledge, we often feel uncertain not just about a subject, but also about how to proceed with discovery. This work introduces Meta-Creative Problem-Solving (MCPS), a new concept designed to study and improve inquiry practices and norms as they become intelligent. MCPS involves generating variations within epistemic activities and evaluating consequent changes in relation to the subject of inquiry, guided by metacognitive feelings like confidence and fluency. It recognizes that (meta)epistemic practices themselves embody assumptions whose consequences guide their own refinement. The MCPS concept aims to answer how inquiry becomes intelligent, especially when no ready-made roadmap exists.",
+      "keywords": ["Meta-Creative Problem-Solving", "MCPS", "Scientific Discovery", "Innovation", "Metacognition", "Epistemology", "Methodology"],
+      "cta": [
+        {
+          "text": "View Draft",
+          "link": "#",
+          "icon": "FaFileAlt",
+          "note": "Expected: August 2024"
+        },
+        {
+          "text": "View Poster",
+          "link": "link_to_mcps_poster.pdf",
+          "icon": "FaImage"
+        }
+      ]
+    },
+    {
+      "id": "article_tool_cognitive_metascience",
+      "tags": ["Leading", "Development & Research Ongoing", "Article & Tool"],
+      "title": "Cognitive Metascience: Studying and Improving Scientific Theoretical Practices",
+      "short_description": "Pioneering a Cognitive Metascience approach, including a neurosymbolic workflow, to assess and enhance theoretical practices in science, particularly in CDM research.",
+      "long_description": "This project introduces a 'Cognitive Metascience' approach to systematically study and improve theoretical practices within scientific research, with an initial focus on Causal Discovery Method (CDM) applications. It leverages insights from Meta-Creative Problem-Solving (MCPS) to develop a neurosymbolic workflow for assessing the explicitness of theoretical traces, carefulness of practice, and quality of theoretical grounding. The aim is to provide validated guidelines and tools that enhance the quality, robustness, and impact of scientific endeavors by making theoretical work more transparent and effective. All modules for the workflow tool have been coded and are currently being assembled.",
+      "keywords": ["Cognitive Metascience", "Theoretical Practice", "Causal Discovery Methods", "Neurosymbolic AI", "Research Improvement", "Methodology Tool"],
+      "cta": [
+        {
+          "text": "Learn More",
+          "link": "#",
+          "icon": "FaInfoCircle"
+        }
+      ]
+    },
+    {
+      "id": "app_causal_mapping",
+      "tags": ["Leading", "Advanced Conceptualization", "App"],
+      "title": "Causal Mapping App",
+      "short_description": "A collaborative tool for creating preliminary causal graphs, essential for applying formal causal frameworks or Causal Discovery Algorithms.",
+      "long_description": "This application facilitates the collaborative construction of initial causal maps. Users can define variables and invite participants to add suspected causal relationships, specifying direction, strength, polarity, and their reasoning. The app also prompts users to assess their confidence in the absence of links they didn't specify. Finally, individual inputs are aggregated to generate a summary graph, highlighting areas of consensus and disagreement among researchers. This tool aims to streamline the crucial first step in formal causal modeling and discovery. If this tool could be useful for your current needs, please get in touch.",
+      "keywords": ["Causal Mapping", "Collaborative Tool", "Causal Discovery", "Problem Structuring", "Intuitive Models", "Decision Support"],
+      "cta": [
+        {
+          "text": "Express Interest / Learn More",
+          "link": "mailto:szymon.milkos@gmail.com?subject=Interest%20in%20Causal%20Mapping%20App",
+          "icon": "FaEnvelope"
+        }
+      ]
+    },
+    {
+      "id": "collab_burnout_science",
+      "tags": ["Collaborating", "Preregistration Phase", "Research"],
+      "title": "Burnout in Science: Causes and Consequences",
+      "short_description": "A collaborative study investigating the factors contributing to burnout among scientific researchers and its impact on scientific practice.",
+      "long_description": "This project, led by Diomira Diakowicz (Psychology of Science Group, PI: Balazs Aczel), aims to understand the prevalence and multifaceted nature of burnout in the scientific community. A pilot survey study has been conducted, and we are currently developing the preregistration for the main study. My role involves providing methodological support and conducting causal analysis of the survey data to identify key drivers and moderators of burnout.",
+      "keywords": ["Psychology of Science", "Scientist Wellbeing", "Burnout", "Research Culture", "Causal Analysis", "Survey Research"],
+      "cta": [
+        {
+          "text": "Learn More",
+          "link": "#",
+          "icon": "FaInfoCircle",
+          "note": "Publication forthcoming"
+        }
+      ]
+    },
+    {
+      "id": "collab_emotional_landscape",
+      "tags": ["Collaborating", "Primary Contributor", "Pilot Analysis Phase", "Research"],
+      "title": "The Emotional Landscape of Scientific Practice",
+      "short_description": "Exploring the role and impact of emotions in the day-to-day practice and progression of scientific discovery.",
+      "long_description": "Led by Balazs Aczel, this study delves into the complex interplay of emotions within scientific research. I am a primary contributor, involved in conceptualizing the project, selecting/designing survey questions, and will be conducting natural language processing and causal analysis on the collected data. A pilot study has been completed, and we are now moving into the analysis and discussion phase to refine our approach for a larger study.",
+      "keywords": ["Psychology of Science", "Emotions in Science", "Scientific Discovery", "Research Practice", "Natural Language Processing", "Causal Analysis"],
+      "cta": [
+        {
+          "text": "Learn More",
+          "link": "#",
+          "icon": "FaInfoCircle",
+          "note": "Publication forthcoming"
+        }
+      ]
+    },
+    {
+      "id": "collab_coi_publishing",
+      "tags": ["Collaborating", "Primary Contributor", "Draft Finalizing", "Article"],
+      "title": "Conflict of Interest in Scientific Publications: A Metascientific Inquiry",
+      "short_description": "An article stemming from hackathon-driven community input on understanding and addressing conflicts of interest in academic publishing.",
+      "long_description": "This paper, emerging from two community hackathons, synthesizes expert and researcher perspectives on conflicts of interest (COI) in scientific publishing. As a first-tier contributor, I am involved in analyzing the qualitative data from these events and co-authoring the manuscript. The paper aims to provide actionable insights and recommendations to improve scientific practice and the integrity of the publication process. We are currently in the final stages of drafting the manuscript.",
+      "keywords": ["Psychology of Science", "Metascience", "Conflict of Interest", "Scientific Publishing", "Research Integrity", "Community Science"],
+      "cta": [
+        {
+          "text": "Read Draft",
+          "link": "#",
+          "icon": "FaFileAlt",
+          "note": "Soon"
+        }
+      ]
+    },
+    {
+      "id": "grant_proposal_eu",
+      "tags": ["Co-authoring", "In Development", "Grant Proposal"],
+      "title": "EU Grant Proposal: Fostering Next-Generation Discovery Methods",
+      "short_description": "Developing a major grant proposal with Marcin Miłkowski to secure EU funding for advancing innovative scientific discovery methodologies.",
+      "long_description": "Together with Marcin Miłkowski, I am co-authoring a significant grant proposal for submission to the European Union. This proposal aims to secure funding to [e.g., establish a pioneering Cognitive Metascience Lab / develop innovative tools and methodologies for scientific discovery / advance the integration of theory-driven and data-driven approaches in science - *please specify or keep general*]. The project will build upon existing research in metascience and the methodology of discovery.",
+      "keywords": ["Grant Proposal", "EU Funding", "Research Infrastructure", "Scientific Methodology", "Cognitive Metascience", "Collaboration"],
+      "cta": []
+    }
+  ]
+}
+```

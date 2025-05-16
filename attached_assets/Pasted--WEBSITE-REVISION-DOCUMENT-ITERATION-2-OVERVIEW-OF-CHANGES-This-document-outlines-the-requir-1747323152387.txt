@@ -1,0 +1,118 @@
+# WEBSITE REVISION DOCUMENT - ITERATION 2
+
+## OVERVIEW OF CHANGES
+
+This document outlines the required changes for the second iteration of the personal academic website. The primary modifications include:
+
+1. Creating a new landing page that serves as an entry point
+2. Refining content and usability across all existing sections
+3. Restructuring the Past section for better organization
+4. Improving visual contrast and navigation elements
+
+---
+
+## 1. NEW LANDING PAGE SPECIFICATION
+
+### Purpose
+Create a concise entry point that provides an immediate overview of identity, mission, and site structure before users navigate to detailed sections.
+
+### Layout Structure
+motto on the left, picture on the right
+personal statment
+section navigation
+
+### Content Elements
+
+**Header/Motto:**
+- Primary text: "I inquire scientific discoveries to help others innovate"
+- Position: Top of left column, prominent typography
+
+**Photo Placeholder:**
+- Size: Approximately 300x400px
+- Position: Upper portion of right column
+- Style: Professional, possibly with a subtle border or shadow
+
+**Personal Statement:**
+- Length: 100-150 words
+- Tone: Academically rigorous yet accessible to non-specialists
+- Content focus: Research direction, methodological approach, and broader mission
+- Purpose: Effectively communicate scientific identity to both academic and general audiences
+
+
+
+**Section Navigation:**
+- Three prominent buttons arranged horizontaly:
+  1. **FUTURE** - Brief descriptor: "Vision and upcoming projects"
+  2. **PRESENT** - Brief descriptor: "Current work and latest updates"
+  3. **PAST** - Brief descriptor: "Background and achievements"
+- Design: Distinct, visually appealing buttons with clear hierarchy
+- Behavior: Move to corresponding full sections
+
+### Visual Design Notes
+- Clean, minimalist aesthetic consistent with existing sections
+- Adequate white space to create a welcome feeling
+- Use of the established color palette but with emphasis on professional presentation
+- Subtle background that doesn't compete with content
+
+---
+
+## 2. EXISTING SECTIONS REFINEMENTS
+
+### Future Section Modifications
+
+**Content Updates:**
+- Keep the existing structure of Goals and Projects
+- Replace "Wanna make this happen?" with "Would you like to help make this happen?"
+- Maintain the email collection form functionality
+
+**Visual Updates:**
+- No major structural changes required
+- Ensure consistent styling with the new landing page
+
+### Present Section Modifications
+
+**Section Renaming:**
+- Change "Recent Updates" to "News"
+
+**Content Organization:**
+- Implement date-range pagination for News items
+- Display text: "News (Current date range)" - e.g., "News (Jan 2023 - May 2023)"
+- Add navigation arrows at bottom of News section:
+  - Left arrow: Load 5 older updates
+  - Right arrow: Load 5 newer updates
+  - Disable appropriate arrow when at beginning/end of timeline
+
+**Visual Improvements:**
+- **Critical Fix:** Improve contrast between blue hyperlinks/icons and blue backgrounds
+- Options:
+  1. Lighten background color in News section
+  2. Change hyperlink color to higher contrast option (light teal or white)
+  3. Add subtle background to icons to improve visibility
+
+### Navigation Enhancements
+
+**Timeline Navigation:**
+- Keep the existing dot navigation system
+- Add simple labels ("Future," "Present," "Past") that appear next to the active dot
+- No complex hover states required
+- Implement subtle animation during scrolling between sections (dot fills or grows slightly when section is active)
+
+---
+
+## 3. PAST SECTION RESTRUCTURING
+
+For now okey, we will change something with specific content. 
+
+---
+
+## 4. GENERAL IMPROVEMENTS
+
+### Visual Consistency
+- Ensure consistent typography and spacing across all sections
+- Maintain color theme while addressing contrast issues
+- Apply consistent styling to all expandable elements
+
+### Animations and Transitions
+- Implement subtle transitions between sections
+- Smooth animations for expanding/collapsing content
+- Ensure all animations are performant and don't impede navigation

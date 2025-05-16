@@ -1,0 +1,162 @@
+{
+  "education": [
+    {
+      "id": "phd_philosophy",
+      "degree": "PhD in Philosophy (ongoing)",
+      "year": "2022-Present",
+      "institution": "Polish Academy of Sciences, Institute of Philosophy and Sociology, Graduate School of Social Research",
+      "thesis": "Working Title: \"Advancing Methodology of Scientific Discovering: Causal Discovery Methods, Meta-Creative Problem-Solving, and Cognitive Metascience\"",
+      "details": "<p class=\"text-sm mb-2\">Doctoral research focused on developing theoretical frameworks and practical methodologies to understand and improve the process of scientific discovery itself.</p><p class=\"text-sm mb-2\">Supervisor: Prof. Marcin Miłkowski.</p>"
+    },
+    {
+      "id": "masters_cognitive_science",
+      "degree": "Master's in Cognitive Science",
+      "year": "2018-2021",
+      "institution": "Jagiellonian University, Cracow, Faculty of Philosophy",
+      "thesis": "Thesis: \"Explaining scientific creativity by metacognitive mechanisms of complex problem solving\" (Defense: Sept 2021)",
+      "details": "<p class=\"text-sm mb-2\">Interdisciplinary studies focusing on cognitive mechanisms of complex problem-solving and creativity. Grade point average: ~4.75. Grade on diploma: Very Good.</p><p class=\"text-sm mb-2\">Supervisor: PhD BEng Bipin Indurkhya, prof. UJ.</p>"
+    },
+    {
+      "id": "masters_public_management",
+      "degree": "Master's in Public Management",
+      "year": "2017-2018",
+      "institution": "Jagiellonian University, Cracow, Faculty of Management and Social Communication",
+      "thesis": "Thesis: \"How to support the scientific activity of students? The unconscious action research 2016 – 2019\" (in Polish)",
+      "details": "<p class=\"text-sm mb-2\">Specialisation: Management in the public and non-governmental sector. Focused on organizational learning, leadership, and action research. Grade point average: 4.65. Grade on diploma: Very Good.</p><p class=\"text-sm mb-2\">Supervisor: Prof. Grażyna Prawelska-Skrzypek.</p>"
+    },
+    {
+      "id": "masters_philosophy",
+      "degree": "Master's in Philosophy",
+      "year": "2016-2019",
+      "institution": "Jagiellonian University, Cracow, Faculty of Philosophy",
+      "thesis": "Thesis: \"Is Ludwik Fleck explaining scientific discovery? The analysis of Ludwik Fleck's concept of thought style\" (in Polish)",
+      "details": "<p class=\"text-sm mb-2\">Specialization in philosophy of science and scientific discovery. Grade point average: 4.76. Grade on diploma: Very Good.</p><p class=\"text-sm mb-2\">Supervisor: PhD Jerzy Gołosz, prof. UJ.</p>"
+    },
+    {
+      "id": "bachelors_philosophy",
+      "degree": "Bachelor's in Philosophy",
+      "year": "2013-2016",
+      "institution": "Jagiellonian University, Cracow, Faculty of Philosophy",
+      "thesis": "Thesis: \"Selected aspects of the theory of scientific discovery: around the thought of Karl Popper, Thomas Kuhn and Elżbieta Pietruska-Madej\" (in Polish)",
+      "details": "<p class=\"text-sm mb-2\">Foundation in core philosophical disciplines. Grade point average: 4.68. Grade on diploma: Very Good with Summa Cum Laude.</p><p class=\"text-sm mb-2\">Supervisor: PhD Jerzy Gołosz, prof. UJ.</p>"
+    },
+    {
+      "id": "additional_studies_phys_astro_cs",
+      "degree": "Additional Studies in Physics, Astronomy, Computer Science",
+      "year": "2015-2017",
+      "institution": "Jagiellonian University, Cracow",
+      "focus": "Focus: Fundamentals of programming and mathematics, core physics and astronomy concepts.",
+      "details": "<p class=\"text-sm mb-2\">Broadened scientific and technical understanding to complement philosophical inquiries into science.</p>"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "id": "interdisciplinary_expert_roles",
+      "position": "Interdisciplinary Expert, Group Rationality Specialist, Leader of Learning & Innovation",
+      "years": "2019-2023",
+      "organization": "Swarmcheck, Reason Drill, Optimum Pareto (Cracow, Poland)",
+      "achievement": "Key achievements: Led complex intersectoral discussions for policy recommendations; designed and implemented novel organizational strategies and tools for decision-making and self-organization.",
+      "details": "<p class=\"text-sm mb-2\">Spearheaded initiatives at the intersection of technology, policy, and organizational development.</p><p class=\"text-sm mb-2\">Responsibilities & Projects:</p><ul class=\"list-disc list-inside text-sm space-y-1 text-white/90\"><li>Led intersectoral discussions for post-coal reforms in Silesia (Polish Ministry of Development Funds).</li><li>Designed/delivered workshops using computer-assisted group intelligence for decision-making.</li><li>Developed an application for computer-aided argument mapping (fostering IT, business, philosophy cooperation).</li><li>Diagnosed, designed, and implemented self-organisation strategies for a 30-person organisation without managerial staff.</li></ul>"
+    },
+    {
+      "id": "project_think_like_scientist",
+      "position": "Project Manager",
+      "years": "2019-2020",
+      "organization": "\"Myśl jak naukowiec!\" (\"Think like a scientist!\") Initiative",
+      "achievement": "Key achievements: Reached 2 million people; secured PLN 1 million co-financing (Ministry of Science); meta-science workshops led to statistically significant increase in meta-science knowledge and critical thinking for over 400 secondary school students.",
+      "details": "<p class=\"text-sm mb-2\">Managed a major science popularization project (<a href='http://www.mysljaknaukowiec.pl' target='_blank' class='text-[#3D87CB] hover:underline'>www.mysljaknaukowiec.pl</a>) aimed at popularizing the mechanisms of science and enhancing critical thinking. Responsibilities included strategic planning, budget management (PLN 1 million), team leadership, and public engagement.</p>"
+    }
+  ],
+  "communityCreativeEngagement": [
+    {
+      "id": "opb_initiative",
+      "role": "Project Initiator and Coordinator",
+      "year": "2017-2019",
+      "production": "Undergraduate Research Projects (Oddolne Projekty Badawcze) - Jagiellonian University",
+      "details": "<p class=\"text-sm mb-2\">Initiated and coordinated a program (<a href='http://www.opb.filozofia.uj.edu.pl' target='_blank' class='text-[#3D87CB] hover:underline'>www.opb.filozofia.uj.edu.pl</a>) to increase student involvement in valuable research projects. Secured pro-quality subsidies and served as a member of the granting committee (budget ca. 50,000 PLN/year), leading to increased scientific achievements among students.</p>"
+    },
+    {
+      "id": "student_leadership",
+      "role": "Student Representative & Leader",
+      "year": "2016-2019",
+      "production": "Jagiellonian University Student Governance",
+      "details": "<p class=\"text-sm mb-2\">Active in student leadership roles:</p><ul class=\"list-disc list-inside text-sm space-y-1 text-white/90\"><li>Student Representative, Council of the Institute of Philosophy (2016-present): Major influence on the design of the new Master’s programme.</li><li>President, Scientific Association of Philosophy Students (2018-2019): Restored continuity in the organization's development.</li><li>Chairman, Philosophy of Science Section of the Scientific Association (2016-2019): Organized meetings with ten interdisciplinary speakers.</li></ul>"
+    },
+    {
+      "id": "event_organisation",
+      "role": "Organiser",
+      "year": "2019",
+      "production": "XV Philosophical Meeting in Cracow",
+      "details": "<p class=\"text-sm mb-2\">Took a leading role in organizing a significant philosophical conference, managing logistics and program development.</p>"
+    },
+    {
+      "id": "theatre_and_dance",
+      "role": "Performer & Enthusiast",
+      "year": "A Decade of Engagement",
+      "production": "Theatre & Contact Improvisation",
+      "details": "<p class=\"text-sm mb-2\">Spent a decade involved in theatre, which informs an engaging and dynamic presentation style. Passionate contact improvisation dancer, frequently participating in festivals and embracing expressive movement. These experiences also inspired explorations of creativity in science.</p>"
+    },
+    {
+      "id": "other_engagements",
+      "role": "Facilitator, Mentor, Contributor",
+      "year": "Various",
+      "production": "Diverse Activities",
+      "details": "<p class=\"text-sm mb-2\">Engaged in various other activities reflecting a commitment to sharing knowledge and fostering creativity:</p><ul class=\"list-disc list-inside text-sm space-y-1 text-white/90\"><li>Workshop for gifted youth: \"Jak znaleźć cel (purpose) w nauce?\" (June 2018).</li><li>Co-authored winning application \"Weźże!\" for collective city creation (YouthKrakHack 2018).</li><li>Ongoing mentorship for a colleague's research article (Ministry of Culture scholarship).</li><li>Hobbies: Methodical discovery of truth, entrepreneurial creation of good, artistic care for beauty, dancing, singing, cooking, team sports.</li></ul>"
+    }
+  ],
+  "scientificOutputs": {
+    "preamble": "<p class=\"text-sm mb-2 italic\">Publishing was never my primary goal. My focus has always been on doing real, useful, and elegant work that contributes to our understanding of discovery and innovation. Publications, in my view, are a sign that some work was done—a certificate—but not the work itself. There's a fitting, and perhaps bitterly funny, irony that my first peer-reviewed article will likely be the one exploring conflicts of interest in academic publishing.</p>",
+    "conferencePresentations": [
+      {
+        "id": "conf_prague_2024",
+        "citation": "Miłkoś, S. (2024, October). <i>Overcoming ignorance: meta-creative problem-solving as methodology of scientific discovering</i>. Polish-Czech National Academies of Science Workshop, Prague, Czech Republic."
+      },
+      {
+        "id": "conf_ispsm_2024",
+        "citation": "Miłkoś, S. (2024). <i>Causal what? Theoretical dependence and methodological entanglement of computational causal discovery methods</i>. 1st Annual Web Conference of the International Society for the Philosophy of the Sciences of the Mind (Online)."
+      },
+      {
+        "id": "conf_bucharest_2023",
+        "citation": "Miłkoś, S. (2023, November). <i>Integrating causal discovery method at forefront of scientific practice</i>. Polish-Romanian National Academies of Science Workshop, Bucharest, Romania."
+      },
+      {
+        "id": "conf_torun_2022",
+        "citation": "Miłkoś, S. (2022). <i>Will the Success of Causal Discovery Methods Herald the End of Hypothetical Thinking?</i> International Conference: Hypothesis in science, Toruń, Poland."
+      },
+      {
+        "id": "conf_krakow_2019_meta",
+        "citation": "Miłkoś, S. (2019). <i>Discovering discovery - meta-question</i>. XV Philosophical Rally, International Conference, Krakow, Poland. Abstract: <a href='http://zlot.obf.edu.pl/abstrakty.pdf' target='_blank' class='text-[#3D87CB] hover:underline'>zlot.obf.edu.pl/abstrakty.pdf</a> (p. 68)."
+      },
+      {
+        "id": "conf_warsaw_2018",
+        "citation": "Miłkoś, S. (2018). <i>From attempts to reconstitute Fleck's metaphysics - The Constitutive and Etiological Mechanism of Science</i> (in Polish). 3rd Conference on Philosophy of Science and Formal Methods in Philosophy, Warsaw, Poland. Abstract: <a href='http://bityl.pl/PRvTc' target='_blank' class='text-[#3D87CB] hover:underline'>bityl.pl/PRvTc</a> (p. 14)."
+      },
+      {
+        "id": "conf_lodz_2018",
+        "citation": "Miłkoś, S. (2018). <i>Scientific discovery and social constructivism in light of Ludwik Fleck's thought style</i>. XIV Philosophical Rally, International Conference, Łódź, Poland. Abstract: <a href='http://zlot.obf.edu.pl/zf2018/abstrakty.pdf' target='_blank' class='text-[#3D87CB] hover:underline'>zlot.obf.edu.pl/zf2018/abstrakty.pdf</a> (pp. 50-52)."
+      },
+      {
+        "id": "conf_szczecin_2017",
+        "citation": "Miłkoś, S. (2017). <i>What is the mechanism of objectively new knowledge and how does it differ from individual knowledge creation?</i> (in Polish). Educational Aspects of Constructivism, Szczecin, Poland."
+      }
+    ],
+    "authoredGrantProposals": [
+      {
+        "id": "grant_era_chair",
+        "title": "ERA Chair Proposal: Cognitive Metascience Lab Establishment (Co-author)",
+        "details": "<p class=\"text-sm mb-2\">Co-authored (with Marcin Miłkowski as lead) a proposal to establish a pioneering Cognitive Metascience Lab to inquire into science and foster the implementation of innovative science reforms. (Unsuccessful)</p>"
+      },
+      {
+        "id": "grant_era_twinning",
+        "title": "ERA Twinning Proposal: Digital Metascience and Research Assessment Innovation (Co-author)",
+        "details": "<p class=\"text-sm mb-2\">Co-authored (with Marcin Miłkowski as lead) a proposal focused on digital metascience and research assessment innovation, aiming to transform the study of scientific practices and provide evidence-based policy recommendations for the publication industry. (Unsuccessful)</p>"
+      },
+      {
+        "id": "grant_gssr_nava",
+        "title": "NAVA SPP Grant Proposal Support",
+        "details": "<p class=\"text-sm mb-2\">Assisted the Graduate School for Social Research (GSSR) with writing their NAVA SPP grant proposal.</p>"
+      }
+    ],
+    "peerReviewedArticles": []
+  }
+}

@@ -1,0 +1,17 @@
+Subject: JSON Data & UI/UX Notes for "Ongoing Projects" Section
+Hi Team,
+Below is the JSON data structure for populating the "Ongoing Projects" section of Szymon Miłkoś's personal website. Each object in the projects array represents a tile/card on the webpage.
+Key Fields for Each Project Object:
+id: (String) A unique identifier for the project.
+tags: (Array of Strings) Short tag texts to be displayed at the top of the card (e.g., "Leading", "Draft Ready", "Article").
+Display Note: Only the tag value (the string itself) should be displayed, not any preceding label (e.g., display "Leading", not "Role: Leading"). The tags should be self-explanatory by their content.
+Future Use: These tags will be useful for implementing filtering functionality in the future.
+title: (String) The main title of the project, always visible.
+short_description: (String) A brief, one-sentence description. This will be visible before the tile is expanded. This field can be an empty string (""). The UI should gracefully handle empty strings (e.g., by not displaying anything or simply not allocating space).
+long_description: (String) A more detailed explanation of the project, visible when the tile/card is expanded by the user.
+keywords: (Array of Strings) Relevant keywords. These are primarily for internal use or potential future SEO/filtering, but can be displayed within the expanded tile if the design allows.
+cta: (Array of Objects) Call-to-action buttons/links. Each object has:
+text: (String) The text for the button/link (e.g., "View Abstract", "Comment Draft").
+link: (String) The URL for the link. A # indicates the link is not yet active or is a placeholder.
+icon: (String, Optional) A suggestion for a standard React icon name (e.g., FaFileAlt for a document, FaGithub for GitHub, FaExternalLinkAlt for a demo/external link, FaComments for commenting). Please use appropriate icons from your available library.
+note: (String, Optional) A small note. Implementation Detail: If link is "#" or otherwise inactive, the note (e.g., "Expected: July 2024") should ideally be displayed instead of the link being clickable, perhaps as static text or on hover over the disabled CTA. If the link is active, the note could be a tooltip on hover over the CTA text/icon.
