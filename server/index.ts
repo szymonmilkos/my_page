@@ -57,7 +57,7 @@ app.use((req, res, next) => {
   }
 
 
-  const port = parseInt(process.env.PORT || "8080", 10);
+  const port = 8080;
   server.listen({
     port,
     host: "0.0.0.0",
