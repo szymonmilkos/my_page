@@ -57,10 +57,10 @@ app.use((req, res, next) => {
   }
 
 
-  const port = Number(process.env.PORT) || 5000;
+  const port = 8080
   server.listen({
     port,
-    host: process.env.NODE_ENV === "production" ? "127.0.0.1" : "0.0.0.0",
+    host: "0.0.0.0",
   }, () => {
     log(`serving on port ${port}`);
   });
