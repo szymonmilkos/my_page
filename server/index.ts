@@ -57,9 +57,9 @@ app.use((req, res, next) => {
   }
 
 
-  const port = 8080
+  const PORT = 8080
   server.listen({
-    port,
+    PORT,
     host: "0.0.0.0",
   }, () => {
     log(`serving on port ${port}`);
