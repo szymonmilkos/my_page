@@ -57,9 +57,12 @@ app.use((req, res, next) => {
   }
 
 
-  const port = process.env.PORT ? parseInt(process.env.PORT) : 5000;
-    app.listen(port, () => {
-    console.log(`Listening on port ${port}`);
+  const port = process.env.PORT || 8080;
+  app.get('/', (req, res) => {
+    res.send('Hello World!');
   });
 
+  app.listen(port, () => {
+    console.log(`Server listening on port ${port}`);
+  });
 })();
